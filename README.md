@@ -1,16 +1,10 @@
-### 前言
 
-肝代码不易，若是在网上发表请标明出处，另外请路过的朋友们随手点个Star。本项目仅用于学习。 
-
-- [English](README_EN.md)
-
-[Github地址](https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp)
 
 ### 项目介绍
 
 项目参考于网易云音乐PC版app，基本实现官方音乐播放、MV播放所有功能
 
-项目目前共四个分支：
+
 
 ```js
 ----master  //主分支,第二版代码
@@ -34,28 +28,6 @@
 
 [API文档](https://neteasecloudmusicapi.vercel.app/#/)
 
-### 运行项目
-
-1. 运行后端仓库
-
-    1.1. git clone 后端仓库地址
-
-    1.2. cnpm install
-
-    1.3. node app
-
-2. 运行本仓库代码
-
-    2.1. git clone 本仓库地址
-
-    2.2. cnpm install
-
-    2.3. npm run serve
-
-
-#### 问题交流群
-
-欢迎加群一起讨论
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0915/095720_2490a5ae_7602838.jpeg "qrcode_1600134831290.jpg")
 
@@ -102,6 +74,3 @@
 |热搜列表  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020400_1de6b893_7602838.png "屏幕截图.png") | 搜索建议 ![](https://images.gitee.com/uploads/images/2021/0220/020436_e04c6aec_7602838.png "屏幕截图.png")  |搜索详情  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020512_2b796716_7602838.png "屏幕截图.png") |
 |---|---|---|
 
-#### 其他
-
-其他页面效果请参考version1分支，因为上传图片要求不能超过2M，太麻烦我就不一一上传了
