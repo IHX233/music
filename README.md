@@ -3,22 +3,9 @@
 ### 项目介绍
 
 项目参考于网易云音乐PC版app，基本实现官方音乐播放、MV播放所有功能
+    支持三种主题颜色，页面更友好，对不同尺寸屏幕也做了一定兼容
+    技术栈：vue+vuex+vue-router+axios+element-ui+vue-lazyload
 
-
-
-```js
-----master  //主分支,第二版代码
-
-----version1  //第一版代码，写第一版时自己还很菜，所以可能很多地方不够友好
-    项目技术栈：vue+vuex+vue-router+axios+better-scroll
-
-----version2  //第二版代码
-    亮点：支持三种主题颜色，页面更友好，对不同尺寸屏幕也做了一定兼容，内部代码相较于第一版也有比较大的优化
-    技术栈：vue+vuex+vue-router+axios+element-ui+vbest-ui(自己封装的组件库)+postcss-pxtorem+vue-lazyload
-
-----dev-player  //正在开发中，目标是封装一个独立的音乐播放器
-    技术栈：react+ts+hooks+mobx+antd
-```
 
 ### 后端API
 
@@ -27,10 +14,6 @@
 [后端API仓库地址](https://github.com/Binaryify/NeteaseCloudMusicApi)     
 
 [API文档](https://neteasecloudmusicapi.vercel.app/#/)
-
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0915/095720_2490a5ae_7602838.jpeg "qrcode_1600134831290.jpg")
-
 ### 项目效果预览
 
 #### theme
