@@ -18,7 +18,7 @@
 
 #### theme
 
-| light主题 ![light主题](https://images.gitee.com/uploads/images/2021/0220/010130_4d87a5cc_7602838.png "屏幕截图.png") |dark主题 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/dark%E4%B8%BB%E9%A2%98.png "屏幕截图.png")  |green主题 ![green主题](https://images.gitee.com/uploads/images/2021/0220/010217_f5b63600_7602838.png "屏幕截图.png")  |
+| light主题 ![light主题](https://github.com/IHX233/Gallery/blob/main/market/light%E4%B8%BB%E9%A2%98.png) |dark主题 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/dark%E4%B8%BB%E9%A2%98.png "屏幕截图.png")  |green主题 ![green主题](https://images.gitee.com/uploads/images/2021/0220/010217_f5b63600_7602838.png "屏幕截图.png")  |
 |---|---|---|
 
 #### 歌单
