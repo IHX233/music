@@ -18,7 +18,7 @@
 
 #### theme
 
-| light主题 ![light主题](https://github.com/IHX233/Gallery/blob/main/market/light%E4%B8%BB%E9%A2%98.png) |dark主题 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/dark%E4%B8%BB%E9%A2%98.png)  |green主题 ![green主题](https://raw.githubusercontent.com/IHX233/Gallery/main/market/green%E4%B8%BB%E9%A2%98.png)  |
+| light主题 ![light主题](https://github.com/IHX233/Gallery/blob/main/music/light%E4%B8%BB%E9%A2%98.png) |dark主题 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/dark%E4%B8%BB%E9%A2%98.png)  |green主题 ![green主题](https://raw.githubusercontent.com/IHX233/Gallery/main/music/green%E4%B8%BB%E9%A2%98.png)  |
 |---|---|---|
 
 #### 歌单
