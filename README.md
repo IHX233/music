@@ -23,7 +23,7 @@
 
 #### 歌单
 
-|歌单 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E5%8D%95-%E5%88%86%E7%B1%BB.png)  |歌单 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E5%8D%95.png)  |歌单 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%9C%80%E6%96%B0%E9%9F%B3%E4%B9%90.png)  |
+|歌单 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%AD%8C%E5%8D%95-%E5%88%86%E7%B1%BB.png)  |歌单 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%AD%8C%E5%8D%95.png)  |歌单 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%9C%80%E6%96%B0%E9%9F%B3%E4%B9%90.png)  |
 |---|---|---|
 
 #### 排行榜
@@ -33,23 +33,23 @@
 
 #### 歌手 & 歌手详情
 
-|歌手 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%89%8B.png)  |歌手详情 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%851.png)  |歌手mv ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%89%8Bmv.png)  |
+|歌手 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%AD%8C%E6%89%8B.png)  |歌手详情 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%851.png)  |歌手mv ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%AD%8C%E6%89%8Bmv.png)  |
 |---|---|---|
 
 
 
 #### MV & MV播放
 
-|最新mv ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%9C%80%E6%96%B0mv.png) |mv排行  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/mv%E6%8E%92%E8%A1%8C.png)  |mv播放![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/mv%E6%92%AD%E6%94%BE.png)   |
+|最新mv ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%9C%80%E6%96%B0mv.png) |mv排行  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/mv%E6%8E%92%E8%A1%8C.png)  |mv播放![输入图片说明](https://github.com/IHX233/Gallery/blob/main/music/mv%E6%92%AD%E6%94%BE.png)   |
 |---|---|---|
 
 #### 播放器
 
-|播放器  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%9B%B2%E6%92%AD%E6%94%BE.png) |播放器 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E5%BA%95%E9%83%A8%E6%92%AD%E6%94%BE%E6%A0%8F.png)  |播放器![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E8%AF%84%E8%AE%BA.png)|
+|播放器  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%AD%8C%E6%9B%B2%E6%92%AD%E6%94%BE.png) |播放器 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E5%BA%95%E9%83%A8%E6%92%AD%E6%94%BE%E6%A0%8F.png)  |播放器![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E8%AF%84%E8%AE%BA.png)|
 |---|---|---|
 
 #### 搜索
 
-|热搜列表  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%90%9C%E7%B4%A2.png) | 搜索建议 ![](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%90%9C%E7%B4%A2%E6%8E%A8%E8%8D%90.png)  |搜索详情  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%90%9C%E7%B4%A2%E8%AF%A6%E6%83%85.png) |
+|热搜列表  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%90%9C%E7%B4%A2.png) | 搜索建议 ![](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%90%9C%E7%B4%A2%E6%8E%A8%E8%8D%90.png)  |搜索详情  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%90%9C%E7%B4%A2%E8%AF%A6%E6%83%85.png) |
 |---|---|---|
 
