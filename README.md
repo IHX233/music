@@ -45,7 +45,7 @@
 
 #### 播放器
 
-|播放器  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%9B%B2%E6%92%AD%E6%94%BE.png) |播放器 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E5%BA%95%E9%83%A8%E6%92%AD%E6%94%BE%E6%A0%8F.png)  |播放器![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E8%AF%84%E8%AE%BA.png")|
+|播放器  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%9B%B2%E6%92%AD%E6%94%BE.png) |播放器 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E5%BA%95%E9%83%A8%E6%92%AD%E6%94%BE%E6%A0%8F.png)  |播放器![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E8%AF%84%E8%AE%BA.png)|
 |---|---|---|
 
 #### 搜索
