@@ -28,32 +28,28 @@
 
 #### 排行榜
 
-| 排行榜 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/012935_bfaa3065_7602838.png "屏幕截图.png") |排行榜  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/012953_9857b7de_7602838.png "屏幕截图.png") |排行榜  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013025_ab2d440c_7602838.png "屏幕截图.png") |
+| 排行榜 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%8E%92%E8%A1%8C%E6%A6%9C.png) |排行榜  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E9%A3%99%E5%8D%87%E6%A6%9C.png) |排行榜  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E5%85%A8%E7%90%83%E6%A6%9C.png) |
 |---|---|---|
 
 #### 歌手 & 歌手详情
 
-|歌手详情-生平简介 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013344_9814ade8_7602838.png "屏幕截图.png")  |相似歌手 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013406_7e7f7857_7602838.png "屏幕截图.png")  |歌手 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013535_bcfe5162_7602838.png "屏幕截图.png")  |
+|歌手 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%89%8B.png)  |歌手详情 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%851.png)  |歌手mv ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%89%8Bmv.png)  |
 |---|---|---|
 
-|歌手 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013125_8983bc8c_7602838.png "屏幕截图.png")  |歌手详情 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013215_106bb0f4_7602838.png "屏幕截图.png")  |歌手MV![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013229_77cba857_7602838.png "屏幕截图.png")   |
-|---|---|---|
+
 
 #### MV & MV播放
 
-|MV ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013609_7afb2cbd_7602838.png "屏幕截图.png") |MV排行榜 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013638_8e75f908_7602838.png "屏幕截图.png")  |全部MV ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013700_f95da2ea_7602838.png "屏幕截图.png")  |
-|---|---|---|
-
-|MV播放页面 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/013833_1052918e_7602838.png "屏幕截图.png")   |MV播放  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/014010_56ae1105_7602838.png "屏幕截图.png") | MV播放  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/014044_e582c372_7602838.png "屏幕截图.png")|
+|最新mv ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%9C%80%E6%96%B0mv.png)mv排行  | ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/mv%E6%8E%92%E8%A1%8C.png)  |mv播放![输入图片说明](https://github.com/IHX233/Gallery/blob/main/market/mv%E6%92%AD%E6%94%BE.png)   |
 |---|---|---|
 
 #### 播放器
 
-|播放器  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/014825_ee2d1475_7602838.png "屏幕截图.png") |播放器 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/014929_db8070a9_7602838.png "屏幕截图.png")  |播放器![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020325_1b835cc2_7602838.png "屏幕截图.png")|
+|播放器  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%AD%8C%E6%9B%B2%E6%92%AD%E6%94%BE.png) |播放器 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E5%BA%95%E9%83%A8%E6%92%AD%E6%94%BE%E6%A0%8F.png)  |播放器![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E8%AF%84%E8%AE%BA.png")|
 |---|---|---|
 
 #### 搜索
 
-|热搜列表  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020400_1de6b893_7602838.png "屏幕截图.png") | 搜索建议 ![](https://images.gitee.com/uploads/images/2021/0220/020436_e04c6aec_7602838.png "屏幕截图.png")  |搜索详情  ![输入图片说明](https://images.gitee.com/uploads/images/2021/0220/020512_2b796716_7602838.png "屏幕截图.png") |
+|热搜列表  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%90%9C%E7%B4%A2.png) | 搜索建议 ![](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%90%9C%E7%B4%A2%E6%8E%A8%E8%8D%90.png)  |搜索详情  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%90%9C%E7%B4%A2%E8%AF%A6%E6%83%85.png) |
 |---|---|---|
 
