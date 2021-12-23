@@ -28,7 +28,7 @@
 
 #### 排行榜
 
-| 排行榜 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E6%8E%92%E8%A1%8C%E6%A6%9C.png) |排行榜  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E9%A3%99%E5%8D%87%E6%A6%9C.png) |排行榜  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/market/%E5%85%A8%E7%90%83%E6%A6%9C.png) |
+| 排行榜 ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E6%8E%92%E8%A1%8C%E6%A6%9C.png) |排行榜  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E9%A3%99%E5%8D%87%E6%A6%9C.png) |排行榜  ![输入图片说明](https://raw.githubusercontent.com/IHX233/Gallery/main/music/%E5%85%A8%E7%90%83%E6%A6%9C.png) |
 |---|---|---|
 
 #### 歌手 & 歌手详情
